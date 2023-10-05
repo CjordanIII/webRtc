@@ -1,0 +1,17 @@
+
+
+#video-call{
+    display: flex;
+}
+/* change in development */
+#user1{
+    /* display: none; */
+    width: 1fr;
+    background-color: black;
+}
+
+#user2{
+    display: block;
+    background-color: black;
+    width: 1fr;
+}
